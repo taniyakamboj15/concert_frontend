@@ -1,4 +1,4 @@
 export const BASE_URL =
   process.env.NODE_ENV === "production"
-    ? "https://api.example.com"
+    ? "https://concert-show.onrender.com/api/"
     : "http://localhost:5000/api/";
