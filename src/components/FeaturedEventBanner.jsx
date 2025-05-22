@@ -15,7 +15,7 @@ const FeaturedEventBanner = ({
       <img
         src={event.image}
         alt={event.title}
-        className='w-full h-full object-cover'
+        className='w-full h-full object-cover object-center'
       />
       <div className='absolute bottom-0 left-0 p-6 z-20 text-white'>
         <h3 className='text-2xl font-bold mb-1'>{event.title}</h3>
