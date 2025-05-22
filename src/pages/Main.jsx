@@ -48,7 +48,7 @@ const Main = () => {
   };
 
   return (
-    <div className='p-6 px-20 bg-[#f4f4f4] min-h-screen'>
+    <div className='p-6 px-32 bg-[#f4f4f4] min-h-screen'>
       <h2 className='text-3xl font-bold mb-6'>Concerts </h2>
 
       {/* Featured Event Banner */}
